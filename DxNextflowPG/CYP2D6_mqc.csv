@@ -1,0 +1,3 @@
+	Genotype	Phenotype	Haplotype1	Haplotype2	AlternativePhase	VariantData	CNV
+Sample1	Indeterminate	Indeterminate	*10;	*1;	;	*10:22-42130692-G-A:0.667;*1:default;	Tandem1A
+Sample2	*1/*1	Indeterminate	*1;	*1;	;	*1:default;	Normal
