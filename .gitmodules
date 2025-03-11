@@ -1,0 +1,3 @@
+[submodule "pypgx-bundle"]
+	path = pypgx-bundle
+	url = https://github.com/sbslee/pypgx-bundle
