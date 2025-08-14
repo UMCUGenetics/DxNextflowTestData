@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/UMCUGenetics/DxNextflowTestData/main/DxNextflowRNA/main/star_index/ref_genome.fa
