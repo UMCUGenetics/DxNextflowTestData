@@ -1,0 +1,4 @@
+SampleName,FileName,Treatment,Set
+sample1,https://raw.githubusercontent.com/UMCUGenetics/DxNextflowTestData/main/DxNextflowRNA/fraser_module/sample1.bam,CHX,Set1
+sample2,https://raw.githubusercontent.com/UMCUGenetics/DxNextflowTestData/main/DxNextflowRNA/fraser_module/sample2.bam,CHX,Set1
+sample3,https://raw.githubusercontent.com/UMCUGenetics/DxNextflowTestData/main/DxNextflowRNA/fraser_module/sample3.bam,CNTRL,Set1
