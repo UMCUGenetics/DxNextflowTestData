@@ -1,0 +1,3 @@
+#FID    IID     NMISS_ALLELE_CT DENOM   NAMED_ALLELE_DOSAGE_SUM SCORE1_AVG      SCORE1_SUM
+0       SampleA       540     540     191     -0.00235815     -1.2734
+0       SampleB       542     542     168     -0.00196347     -1.0642
