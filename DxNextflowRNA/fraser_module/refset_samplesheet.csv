@@ -1,7 +1,7 @@
 SampleName,FileName,Treatment,Set
-sample2,https://raw.githubusercontent.com/UMCUGenetics/DxNextflowTestData/main/DxNextflowRNA/fraser_module/sample2.bam,CHX,Set1
-sample3,https://raw.githubusercontent.com/UMCUGenetics/DxNextflowTestData/main/DxNextflowRNA/fraser_module/sample3.bam,CHX,Set1
-sample4,https://raw.githubusercontent.com/UMCUGenetics/DxNextflowTestData/main/DxNextflowRNA/fraser_module/sample3.bam,CNTRL,Set1
-sample5,https://raw.githubusercontent.com/UMCUGenetics/DxNextflowTestData/main/DxNextflowRNA/fraser_module/sample3.bam,CNTRL,Set1
-sample6,https://raw.githubusercontent.com/UMCUGenetics/DxNextflowTestData/main/DxNextflowRNA/fraser_module/sample3.bam,CNTRL,Set2
-sample7,https://raw.githubusercontent.com/UMCUGenetics/DxNextflowTestData/main/DxNextflowRNA/fraser_module/sample3.bam,CNTRL,Set2
+sample2,https://raw.githubusercontent.com/UMCUGenetics/DxNextflowTestData/main/DxNextflowRNA/fraser_module/bam/sample2.bam,CHX,Set1
+sample3,https://raw.githubusercontent.com/UMCUGenetics/DxNextflowTestData/main/DxNextflowRNA/fraser_module/bam/sample3.bam,CHX,Set1
+sample4,https://raw.githubusercontent.com/UMCUGenetics/DxNextflowTestData/main/DxNextflowRNA/fraser_module/bam/sample3.bam,CNTRL,Set1
+sample5,https://raw.githubusercontent.com/UMCUGenetics/DxNextflowTestData/main/DxNextflowRNA/fraser_module/bam/sample3.bam,CNTRL,Set1
+sample6,https://raw.githubusercontent.com/UMCUGenetics/DxNextflowTestData/main/DxNextflowRNA/fraser_module/bam/sample3.bam,CNTRL,Set2
+sample7,https://raw.githubusercontent.com/UMCUGenetics/DxNextflowTestData/main/DxNextflowRNA/fraser_module/bam/sample3.bam,CNTRL,Set2
