@@ -1,0 +1,5 @@
+dataset,accession,score_pass,match_status,ambiguous,is_multiallelic,duplicate_best_match,duplicate_ID,match_flipped,match_IDs,count,percent
+sampleA,PGS000004_hmPOS_GRCh38,true,excluded,false,true,true,false,false,NA,6,1.9169329073482428
+sampleA,PGS000004_hmPOS_GRCh38,true,matched,true,false,false,false,false,NA,30,9.584664536741213
+sampleA,PGS000004_hmPOS_GRCh38,true,matched,false,false,false,false,false,NA,274,87.53993610223641
+sampleA,PGS000004_hmPOS_GRCh38,true,unmatched,,,,,,,3,0.9584664536741214
