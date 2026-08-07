@@ -1,0 +1,15 @@
+SEX GENOTYPER,,HG002,XY,0.9925
+CNV SUMMARY,,Bases in reference genome,3678655704
+CNV SUMMARY,,Average alignment coverage over genome,44.70
+CNV SUMMARY,,Number of alignment records,1223666842
+CNV SUMMARY,,Number of filtered records (total),102640438,8.39
+CNV SUMMARY,,Number of filtered records (duplicates),0,0.00
+CNV SUMMARY,,Number of filtered records (MAPQ),71156285,5.82
+CNV SUMMARY,,Number of filtered records (unmapped),31484153,2.57
+CNV SUMMARY,,Coverage uniformity,0.30
+CNV SUMMARY,,Number of target intervals,2441312
+CNV SUMMARY,,Number of segments,6708
+CNV SUMMARY,,Number of amplifications,218
+CNV SUMMARY,,Number of deletions,1217
+CNV SUMMARY,,Number of passing amplifications,82,37.61
+CNV SUMMARY,,Number of passing deletions,104,8.55
